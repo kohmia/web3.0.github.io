@@ -30,7 +30,8 @@ header{
     
 }
 header .logo{
-    padding-top: 8px;
+    padding-top: 20px;
+    
 }
 
 
@@ -39,6 +40,7 @@ header .menu{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    padding-right: 100px;
        
 }
 header .menu li{
@@ -49,7 +51,7 @@ header .menu li{
     
 }
 header .menu li:hover{
-    background-color: #399d9dbe;
+    background-color: #B9E0DF;
     border-radius: 4px;
     
 }
